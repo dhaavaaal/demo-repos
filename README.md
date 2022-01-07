@@ -1,3 +1,4 @@
+has changed
 # File 2
 
-Something
+Something has been added
